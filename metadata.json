@@ -1,0 +1,5 @@
+{
+  "name": "DeployAI",
+  "description": "An AI-powered automatic website deployment system that analyzes project files, simulates builds, and provides live URLs using Gemini's intelligent project recognition.",
+  "requestFramePermissions": []
+}
